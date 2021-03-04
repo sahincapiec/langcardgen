@@ -1,0 +1,2 @@
+# langcardgen
+Language card generator
